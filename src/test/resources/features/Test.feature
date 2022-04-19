@@ -44,4 +44,3 @@ Feature: Test Feature
     Given user clicks on Remove Questions Button
     Then user validates remove functionality
     
-    
