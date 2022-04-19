@@ -15,3 +15,5 @@ $ python -m http.server 8000
 
 You now have a working frontend app that you will write some kind of automated user acceptence tests for.
 The language of framework you use does not matter, but we prefer JS, PHP or Python.
+
+I have added the steps to execute the tests in the PDF.[Quality Assurance engineer test Insights.pdf]
