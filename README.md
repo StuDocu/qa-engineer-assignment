@@ -16,4 +16,4 @@ $ python -m http.server 8000
 ```
 
 You now have a working frontend app that you will write some kind of automated user acceptence tests for.
-The language of framework you use does not matter, but we prefer JS, TS or Python (which are internally used as well as Playwright as test automation framework).
+Your choose for language and framework are up to you, however we would prefer JS, TS or PY and possible the Playwright framework, given we use these internally.
