@@ -3,7 +3,7 @@ Welcome to the QA Engineer tech test. We expect the work to take around 1 to 1.5
 you in advance for taking that time for us!
 
 This test consists of two parts: a written part and a coding part. For the written part, we would
-like to receive a PDF, slide presentation or MD file with your insights. For the coding part, a fork of this repo with
+like to receive a PDF, slide presentation or preferably an MD file (readme) with your insights. For the coding part, a fork of this repo with
 your solution will do.
 
 ### Automated Testing Assignment
