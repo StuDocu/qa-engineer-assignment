@@ -1,4 +1,4 @@
-# Quality Assurance engineer test
+# Quality Assurance Engineer Assignment
 Welcome to the QA Engineer tech test. We expect the work to take around 1 to 1.5 hours, and we thank
 you in advance for taking that time for us!
 
