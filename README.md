@@ -1,5 +1,5 @@
 # Quality Assurance Engineer Assignment
-Welcome to the QA Engineer tech test. We expect the work to take around 1 to 1.5 hours, and we thank
+Welcome to the QA Engineer Technical Assignment. We expect the work to take a few hours, and we thank
 you in advance for taking that time for us!
 
 This test consists of two parts:  a coding part as an Automation Testing Assignment an a written part as a Documentation.
