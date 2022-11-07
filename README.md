@@ -13,9 +13,7 @@ For the coding part you can clone this repo and you'll have a working frontend a
 $ python -m http.server 8000
 ```
 
-You now have a working frontend app that you will write some kind of automated user acceptence tests for.
-
-Your challenge is to write some kind of automated user acceptence tests for this app and share your repo with us.
+You now have a working frontend app. Your challenge is to write some kind of automated user acceptence tests for this app and share your repo with us.
 
 The technical solution choices regarding language and framework are up to you, however we would prefer to see something on JS, TS or PY and possibly Playwright framework, given we use these internally. Take this chance to show your knowledge not only regarding coding but also regarding integrating different features to an automation project as reporting, parallel execution, retries, screenshots and logging when failing, etc.
 
