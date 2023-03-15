@@ -7,7 +7,7 @@ This test consists of two parts:  a coding part as an Automation Testing Assignm
 
 ## Test Automation:
 
-For the coding part you can clone this repo and you'll have a working frontend app by running a python http server:
+For the coding part you can clone this repo with `--bare` (and later push the solution with `--mirror`  to a new repo in your accounts) and you'll have a working frontend app by running a python http server:
 
 ```
 $ python -m http.server 8000
